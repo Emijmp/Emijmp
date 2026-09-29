@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Emijmp/Emijmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Trying to understand whatever I'm doing.**
+> Remember to make backups. 💾 (I'm saying this from experience.)
 
-Here are some ideas to get you started:
+## 🧾 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧵 **Part-time EMB Designer**: I make threads do pretty things
+- ⚔️ my other job is saving the city on weekends
+- 🧠 Skill level: I know just enough to break things
+- 📫 Contact: [your-email@example.com]
+
+## 🛠️ My arsenal
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+- **HTML**: at least i can open tags.
+- **CSS**: i know hoy to center a div.
+- **Python**: `print("Hello World")` or idk.
+
+
+- i'm trying to learn lua.
+
+##
