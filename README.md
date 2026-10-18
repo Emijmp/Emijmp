@@ -7,7 +7,6 @@
 
 - 🧵 **Part-time EMB Designer**: I make threads do pretty things
 - ⚔️ my other job is saving the city on weekends
-- 🧠 Skill level: I know just enough to break things
 - 📫 Contact: [emilitomorinigop@gmail.com]
 
 ## 🛠️ My arsenal
